@@ -25,7 +25,7 @@ Serving as a **Computer Vision Research Intern**, his applied research centers o
 
 * **Academic Domain:** Data Science & Machine Learning Systems
 * **Research Focus:** Edge AI, Model Optimization (TensorRT / INT8 Quantization), Real-Time Sequence Transcription
-* **Professional Profiles:** [LinkedIn] http://linkedin.com/in/tejas-handa-95143432a | [GitHub](https://github.com/TejasDS13)
+* **Professional Profiles:** [LinkedIn](http://linkedin.com/in/tejas-handa-95143432a)| [GitHub](https://github.com/TejasDS13)
 * **Project Repository:** https://github.com/TejasDS13/Edge-ANPR-Research-Proposal)
 
 ---
