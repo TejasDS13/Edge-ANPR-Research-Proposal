@@ -19,15 +19,14 @@ Technical Research Paper &amp; System Architecture Specification
 
 ## About the Author
 
-**[Your Full Name]** is an undergraduate researcher and 3rd-year **Bachelor of Technology (B.Tech)** candidate specializing in **Data Science** in the Department of Computer Science & Engineering at [Your College / University Name]. 
+**Tejas Handa** is an undergraduate researcher and 3rd-year **Bachelor of Technology (B.Tech)** candidate specializing in **Data Science** in the Department of Computer Science & Engineering at Guru Tegh Bahadur 4th Centenary Engineering College. 
 
 Serving as a **Computer Vision Research Intern**, his applied research centers on deep learning model compression, lightweight neural representations, and latency-deterministic computer vision pipelines for embedded edge platforms. His technical focus addresses the challenges of real-time Intelligent Transportation Systems (ITS)—specifically optimizing deep sequence models, anchor-free object detection backbones, and spatial transformation networks under constrained thermal and memory envelopes (e.g., NVIDIA Jetson Orin Nano).
 
 * **Academic Domain:** Data Science & Machine Learning Systems
 * **Research Focus:** Edge AI, Model Optimization (TensorRT / INT8 Quantization), Real-Time Sequence Transcription
-* **Contact:** `your.email@institution.edu`
-* **Professional Profiles:** [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
-* **Project Repository:** [GitHub Repository](https://github.com/your-username/Edge-ANPR)
+* **Professional Profiles:** [LinkedIn] http://linkedin.com/in/tejas-handa-95143432a | [GitHub](https://github.com/TejasDS13)
+* **Project Repository:** https://github.com/TejasDS13/Edge-ANPR-Research-Proposal)
 
 ---
 
