@@ -1,11 +1,3 @@
-<style>
-@page {
-  margin: 0;
-}
-body {
-  padding: 18mm 16mm;
-}
-</style>
 <div style="page-break-after: always; break-after: page; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding-top: 140px; padding-bottom: 80px;">
 
 <h1 style="font-size: 2.3em; line-height: 1.35; margin-bottom: 25px; font-weight: 800;">
